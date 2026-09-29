@@ -1,0 +1,9 @@
+1. What is Agentic AI according to the eBook?
+2. How do AI agents differ from traditional automation systems?
+3. What are the core components of an Agentic Architecture?
+4. What role does memory play in Agentic AI workflows?
+5. What are the risks or challenges of deploying agentic systems?
+6. Who won the 2022 FIFA World Cup?
+
+Expected behavior for query 6:
+The chatbot should refuse because the answer is not contained in the Agentic AI eBook.
